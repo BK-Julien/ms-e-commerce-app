@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/services/discovery/pom.xml" />
         <option value="$PROJECT_DIR$/../generate-sprin boot projet-zip/e-com-bouali/customer/pom.xml" />
         <option value="$PROJECT_DIR$/services/customer/pom.xml" />
+        <option value="$PROJECT_DIR$/../generate-sprin boot projet-zip/e-com-bouali/product/pom.xml" />
+        <option value="$PROJECT_DIR$/services/product/pom.xml" />
       </list>
     </option>
   </component>
