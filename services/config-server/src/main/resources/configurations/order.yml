@@ -1,0 +1,29 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: user
+    password: user
+    url: jdbc:postgresql://localhost:5432/order
+  jpa:
+    hibernate:
+      ddl-auto: create
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+  #  flyway:
+  #    baseline-on-migrate: true
+  #    enabled: true
+  #    baseline-description: "init"
+  #    baseline-version: 0
+  #    user: user
+  #    password: user
+
+server:
+  port: 8070
+
+application:
+  config:
+    customer-url: http://localhost:8222/customers
+    payment-url: http://localhost:8222/payments
+    product-url: http://localhost:8222/products
+
+

@@ -5,10 +5,12 @@
     <file url="file://$PROJECT_DIR$/services/customer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/services/customer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/services/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/services/product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../generate-sprin boot projet-zip/e-com-bouali/config-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../generate-sprin boot projet-zip/e-com-bouali/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../generate-sprin boot projet-zip/e-com-bouali/order/src/main/java" charset="UTF-8" />
   </component>
 </project>
